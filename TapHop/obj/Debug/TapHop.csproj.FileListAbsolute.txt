@@ -1,0 +1,6 @@
+C:\Users\Duc Laptop\Documents\SharpDevelop Projects\Unit_1\TapHop\bin\Debug\TapHop.exe.config
+C:\Users\Duc Laptop\Documents\SharpDevelop Projects\Unit_1\TapHop\bin\Debug\TapHop.exe
+C:\Users\Duc Laptop\Documents\SharpDevelop Projects\Unit_1\TapHop\bin\Debug\TapHop.pdb
+C:\Users\Duc Laptop\Documents\SharpDevelop Projects\Unit_1\TapHop\obj\Debug\TapHop.csprojResolveAssemblyReference.cache
+C:\Users\Duc Laptop\Documents\SharpDevelop Projects\Unit_1\TapHop\obj\Debug\TapHop.exe
+C:\Users\Duc Laptop\Documents\SharpDevelop Projects\Unit_1\TapHop\obj\Debug\TapHop.pdb
